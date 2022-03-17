@@ -10,3 +10,4 @@ This is my program
 7. git push origin master  --> command to submit your code the cloud repo (github)
 
 8. git pull origin master --> get the changes from other users from the remote to your local git repository
+9. add .gitignore file inside the root directory
